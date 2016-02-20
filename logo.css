@@ -1,0 +1,40 @@
+#mic {
+    position: relative;
+    top: 55px;
+    left:25px;
+    display: block;
+    width: 126px;
+    height: 260px;
+    background-color: black;
+    /* -webkit-border-radius: 72px 72px 108px 108px / 108px 108px 72px 72px; */
+    border-radius: 65% 65% 65% 65% / 30% 30% 30% 30%;
+}
+
+#mic:before {
+	width: 153px;
+    height: 75px; /* as the half of the width */
+    /*background-color: white;*/
+    border-bottom-left-radius: 110px;  /* 100px of height + 10px of border */
+    border-bottom-right-radius: 110px; /* 100px of height + 10px of border */
+    border: 10px solid black;
+    border-top: 0;
+    position: absolute;
+    content: "";
+    top: 202px;
+    left: -24px;
+}
+
+#mic:after{
+	width: 10px;
+    height: 93px;
+    background-color: black;
+    position: absolute;
+    left: 58px;
+    top: 277px;
+    content: "";
+}
+
+
+#container{
+	
+}
