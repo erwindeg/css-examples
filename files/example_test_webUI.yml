@@ -1,0 +1,36 @@
+operations:
+    test1:   
+        operation: google-search
+        config:            
+            search_query: Sogeti Nederland
+            result_contains: sogeti.nl
+    test2:    
+        operation: search
+        config:         
+            address: http://www.google.com/
+            input_element: q
+            submit_element: btnG 
+            result_element: '#res'
+            search_query: Sogeti Nederland
+            result_contains: sogeti.nl
+    test3:    
+        operation: google-search
+        config:            
+            search_query: Sogeti Nederland
+            result_contains: capgemini.nl
+    test4:   
+        operation: google-search
+        config:            
+            search_query: Capgemini
+            result_contains: capgemini.com
+    test5:
+        operation: search
+        config:
+            address: http://www.bol.com/
+            input_element: '#searchfor'
+            submit_element: /html/body/div/header/div[2]/div/div[3]/form/div/div[3]/input[1]
+            result_element: '#js_listpage_resultlist'
+            search_query: selenium
+            result_contains: Learning Selenium Testing Tools - Third Edition
+    
+    

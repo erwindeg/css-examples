@@ -1,0 +1,28 @@
+operations:
+    calculateMultiply:  
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    wait1:    
+        operation: wait
+        config:            
+            wait_time: 10000 
+    testCollectionSize:    
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    javaScriptOperation:
+        operation: jsTestOperation
+        config:
+            some-setting: some-value
+    testAnotherCollectionSize:
+        operation: collection-size
+        config:            
+            value: [5, 2, 554]
+            min_size: 0
+            max_size: 20

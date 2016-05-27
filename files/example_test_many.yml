@@ -1,0 +1,504 @@
+operations:
+    operation1:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation2:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation3:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation4:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation5:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423         
+    operation6:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation7:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation8:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation9:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation10:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation11:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation12:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation13:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation14:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation15:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation16:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation17:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation18:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation19:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation20:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation21:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation22:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation23:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation24:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation25:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation26:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation27:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation28:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation29:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation30:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation31:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation32:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation33:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation34:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation35:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation36:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation37:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation38:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation39:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation40:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation41:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation42:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation43:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation44:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation45:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation46:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation47:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation48:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation49:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation50:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation51:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation52:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation53:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation54:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation55:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation56:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation57:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation58:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation59:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation60:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation61:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation62:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation63:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation64:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation65:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation66:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation67:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation68:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation69:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50
+    operation70:        
+        operation: calculation
+        config:            
+            left: 999
+            operator: MINUS
+            right: 111 
+            result: 43423
+    operation71:   
+        operation: calculation
+        config:            
+            left: 2.4
+            operator: MULTIPLY
+            right: 3
+            result: 5.4
+    operation72:   
+        operation: collection-size
+        config:            
+            value: [element1, element2, element3, element4]
+            min_size: 1
+            max_size: 5
+    operation73:
+        operation: calculation
+        config:            
+            left: 200.432
+            operator: PLUS
+            right: 463.4242
+            result: 2
+    operation74:        
+        operation: calculation
+        config:
+            left: 100
+            operator: DIVIDE
+            right: 2
+            result: 50

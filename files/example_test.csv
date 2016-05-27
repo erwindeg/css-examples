@@ -1,0 +1,7 @@
+step,operation,description,run,parametername,parametervalue
+1,calculation,calculateMultiply,true,left,2.4
+1,calculation,calculateMultiply,true,operator,MULTIPLY
+1,calculation,calculateMultiply,true,right,3
+1,calculation,calculateMultiply,true,result,7.199999999999999
+2,wait,wait1,true,wait_time, 10000
+end
